@@ -19,7 +19,7 @@
     "homepage": "https://github.com/SlightlyLostDave/itsdavebeach#readme",
     "devDependencies": {
         "@babel/core": "^7.5.5",
-        "@babel/preset-env": "^7.5.5",
+        "@babel/preset-env": "^7.14.9",
         "@babel/register": "^7.5.5",
         "autoprefixer": "^9.6.1",
         "babel-loader": "^8.0.6",
